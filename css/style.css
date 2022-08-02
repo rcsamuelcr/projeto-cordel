@@ -46,8 +46,8 @@ p{
     margin-left: 20px;
 }
 section{
-
-    padding-bottom: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;
     line-height: 2em;
     font-family: var(--fonte3);
     font-size: 3.5vw;

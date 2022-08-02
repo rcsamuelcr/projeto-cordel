@@ -9,13 +9,7 @@
     --fonte2: 'Passion One', cursive;
     --fonte3: 'Sriracha', cursive;
 }
-*{
-    padding: 0px;
-    margin: 0px;
-    font-size: 1em;
-}
 body{
-    width: 100%;
     min-height: 100hv;
     font-family: var(--fonte1);
 }
